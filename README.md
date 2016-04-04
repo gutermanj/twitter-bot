@@ -40,3 +40,5 @@ Twitter doesn't play nice when you blast their API with a bunch of requests. To 
 <br>
 By doing this, the app is not using the same keys to make each request, this eliminates the API limiting issues presented by Twitter.
 </p>
+
+<b>This is the original source for Twitter-Bot V1, this application has since been updated to a new version which is in productioin held in a private repository</b>
