@@ -30,7 +30,7 @@ Twitter-Bot uses a simple algorithm to split all of the active accounts into gro
 </ul>
 
 <p>
-In short, one account from each group will 'pair' with eachother and trade their 3 most recent favotires.
+In short, one account from each group will 'pair' with eachother and trade their 3 most recent favorites.
 
 <b>This can be used as a marketplace for Retweet Trading.</b>
 </p>
